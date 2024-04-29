@@ -16,7 +16,7 @@ class ImageCompression():
         
         compressed_img = img.copy()
         
-        compressed_img.save('compressed_image.png', optimize=True, quality=level)
+        compressed_img.save('compressed_image.jpg', optimize=True, quality=level)
         
-        return 'compressed_image.png'
+        return 'compressed_image.jpg'
         

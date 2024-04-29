@@ -94,7 +94,7 @@ def imgCompression():
         
         
     
-        response = send_file(output, mimetype='image/png', as_attachment=True, download_name='_compress.png')
+        response = send_file(output, mimetype='image/jpg', as_attachment=True, download_name='_compress.jpg')
 
         return response
     

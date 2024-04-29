@@ -85,7 +85,7 @@ const BackgroundRemover: React.FC<BackgroundRemoverProps> = ({
         link.href = url;
 
         // Set the download attribute to specify the file name
-        link.download = "converted_file.png";
+        link.download = "removed_bg.png";
 
         // Append the link to the document body
         document.body.appendChild(link);

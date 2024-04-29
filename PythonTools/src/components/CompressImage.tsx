@@ -119,7 +119,7 @@ const CompressImage: React.FC<CompressImageProps> = ({
         link.href = url;
 
         // Set the download attribute to specify the file name
-        link.download = "compressed_img.png";
+        link.download = "compressed_img.jpg";
 
         // Append the link to the document body
         document.body.appendChild(link);

@@ -8,7 +8,7 @@ pythoncom.CoInitialize()
 class PDFConversion():
     def __init__(self):
         pass
-    
+     
     def word_conversion(self, input_filename, output_filename):
         pythoncom.CoInitialize()
         if input_filename.lower().endswith('.docx'):

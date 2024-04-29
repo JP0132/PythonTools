@@ -23,3 +23,9 @@ dist/
 # Vite cache and build artifacts
 .cache/
 .vite/
+
+flask-server/**.jpg
+flask-server/**.png
+flask-server/**.jpeg
+flask-server/**.pdf
+flask-server/**.docx
