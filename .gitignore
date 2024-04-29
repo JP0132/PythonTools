@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development configuration
+instance/
+
+# Node modules and build artifacts
+node_modules/
+build/
+dist/
+
+# IDE specific files
+.vscode/
+
+# Tailwind CSS build files
+.tailwind/
+
+# Vite cache and build artifacts
+.cache/
+.vite/
