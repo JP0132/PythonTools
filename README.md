@@ -6,9 +6,9 @@ This project represents a consolidation of serveral Python tools into a single w
 - Each tool is encapsulated in separate files, using Object-Oriented Programming principles for modularisation, easing future updates.
 - Third-party packages are integrated for seamless tool execution.
 - Frontend developed with React and TypeScript to ensure type-safe data handling.
-- Tailwind CSS used for component styling, enabling rapid develiopemnt with inline styles, minising reliance on classes and IDs.
-- Enhanced user expereience throught both file seelction adn drag-and-drop functionalities.
-- Automated file download promot upon receipt of data from the server, enchancing usability.
+- Tailwind CSS used for component styling, enabling rapid developemnt with inline styles, minimising reliance on classes and IDs.
+- Enhanced user experience through both file selection and drag-and-drop functionalities.
+- Automated file download prompt upon receiving the data from the server, enhancing usability.
 
 ## Requirements
 
